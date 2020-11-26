@@ -26,6 +26,6 @@
 - Não queremos um designer, mas uma apresentação bem organizada e agradável visualmente contará pontos.
 - Não se esqueça de documentar o processo necessário para rodar a sua solução. Ou senão, como nós iremos iniciar o projeto em nossas máquinas?
 
-Todas as etapas acima devem ser enviadas em um único e-mail para o email: edian@brasilfone.com.br
+Todas as etapas acima devem ser enviadas em um único e-mail para: edian@brasilfone.com.br
 
 Qualquer dúdiva que surgir com relação ao desafio, estaremos a disposição para sanar. 
