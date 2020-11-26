@@ -1,4 +1,4 @@
-# BrasilFone mobile-dev challenge
+# Brasilfone mobile-dev challenge
 
 Esse é um desafio simples para o cargo de desenvolvedor mobile na Brasilfone.
 
